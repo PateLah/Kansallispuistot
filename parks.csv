@@ -1,0 +1,42 @@
+﻿National_park;Latitude;Longnitude;Visited;Dates;Area;Founded;Region;Municipality
+Etelä-Konnevesi;62.5500; 26.6333;1; 08/18 ;15,4;2014;Pohjois-Savo ja Keski-Suomi;Rautalampi ja Konnevesi
+Helvetijärvi;62.0333; 23.8500;1; 07/20 ;49,5;1982;Pirkanmaa;Ruovesi
+Hiidenportti;63.8728; 29.0586;1; 06/19 ;45;1982;Kainuu;Sotkamo
+Hossa;65.4897; 29.3236;1; 10/23 ;110;2017;Kainuu, Pohjois-Pohjanmaa;Suomussalmi, Kuusamo, Taivalkoski
+Isojärvi;61.6983; 25.0108;1; 08/18 ;22;1982;Pirkanmaa;Kuhmoinen
+Itäinen Suomenlahti;60.2500; 27.1667;0;;7;1982;Kymenlaakso;Pyhtää, Kotka, Hamina ja Virolahti
+Kauhaneva-Pohjakangas;62.1833; 22.4000;1; 07/20 ;57;1982;Etelä-Pohjanmaa ja Satakunta;Kauhajoki ja Karvia
+Koli;63.0968; 29.8062;1; 08/16, 09/17, 09/18, 09/20;30;1991;Pohjois-Karjala;Joensuu, Kontiolahti ja Lieksa
+Kolovesi;62.2431; 28.8361;1; 06/21 ;23;1990;Etelä-Savo ja Pohjois-Karjala;Enonkoski, Heinävesi ja Savonlinna
+Kurjenrahka;60.7333; 22.4167;0;;29;1998;Varsinais-Suomi;Aura, Masku, Mynämäki, Nousiainen, Pöytyä, Rusko ja Turku
+Lauhanvuori;62.1519; 22.1750;1; 07/20 ;54;1982;Etelä-Pohjanmaa;Kauhajoki ja Isojoki
+Leivonmäki;61.9333; 26.0333;1; 08/18 ;30;2003;Keski-Suomi;Joutsa
+Lemmenjoki;68.5000; 25.5000;0;;2860;1956;Lappi;Inari ja Kittilä
+Liesjärvi;60.6536; 23.8977;1; 06/24 ;22;1956;Kanta-Häme, Uusimaa ja Varsinais-Suomi;Tammela, Somero ja Karkkila
+Linnansaari;62.1097; 28.5194;1; 08/20, 07/23 ;96;1956;Etelä-Savo ja Pohjois-Savo;Rantasalmi, Savonlinna ja Varkaus
+Nuuksio;60.3167; 24.4667;0;;53;1994;Uusimaa;Espoo, Kirkkonummi ja Vihti
+Oulanka;66.3667; 29.3333;1; 07/17 ;290;1956;Pohjois-Pohjanmaa ja Lappi;Kuusamo ja Salla
+Pallas-Yllästunturi;68.0700; 24.0500;0;;1020;1938;Lappi;Kittilä, Enontekiö, Muonio ja Kolari
+Patvinsuo;63.1131; 30.7012;1; 05/18, 10/19 ;105;1982;Pohjois-Karjala;Lieksa ja Ilomantsi
+Perämeri;65.6167; 24.3167;0;;157;1991;Lappi;Kemi ja Tornio
+Petkeljärvi;62.5833; 31.1833;1; 06/20;6;1956;Pohjois-Karjala;Ilomantsi
+Puurijärvi-Isosuo;61.2492; 22.5669;0;;27;1993;Pirkanmaa ja Satakunta;Huittinen, Kokemäki ja Sastamala
+Pyhä-Häkki;62.8456; 25.4725;1; 08/18 ;13;1956;Keski-Suomi;Saarijärvi
+Pyhä-Luosto;67.0192; 27.2521;1; 07/22 ;142;1938;Lappi;Pelkosenniemi, Sodankylä ja Kemijärvi
+Päijänne;61.3667; 25.4500;1; 07/24 ;14;1993;Päijät-Häme;Padasjoki, Asikkala ja Sysmä
+Repovesi;61.1833; 26.8833;1; 06/17 ;15;2003;Kymenlaakso ja Etelä-Savo;Kouvola ja Mäntyharju
+Riisitunturi;66.2333; 28.5000;1; 07/22 ;76;1982;Lappi;Posio
+Rokua;64.5561; 26.5100;0;;15;1956;Pohjois-Pohjanmaa;Vaala ja Utajärvi
+Saaristomeri;59.9167; 21.7000;0;;500;1983;Varsinais-Suomi;Parainen ja Kemiönsaari
+Salamajärvi;63.2667; 24.7500;1; 02/20 ;62;1982;Keski-Pohjanmaa ja Keski-Suomi;Perho, Kivijärvi ja Kinnula
+Salla;66.7801; 28.8627;0;;99,8;2022;Lappi;Salla
+Seitseminen;61.9272; 23.4284;1; 07/20 ;45,5;1982;Pirkanmaa;Ylöjärvi ja Ikaalinen
+Selkämeri;61.5355; 21.5639;0;;913;2011;Satakunta ja Varsinais-Suomi;Eurajoki, Kustavi, Merikarvia, Pori, Pyhäranta, Rauma ja Uusikaupunki
+Sipoonkorpi;60.3125; 25.1625;1; 05/19 ;24;2011;Uusimaa;Helsinki, Vantaa ja Sipoo
+Syöte;65.7014; 27.5722;1; 07/23 ;299;2000;Pohjois-Pohjanmaa ja Lappi;Pudasjärvi, Posio ja Taivalkoski
+Tammisaaren saaristo;59.8727; 23.3975;0;;52;1989;Uusimaa;Raasepori
+Teijo;60.2239; 22.9603;0;;33,9;2015;Varsinais-Suomi;Salo
+Tiilikkajärvi;63.6667; 28.3000;1; 08/19, 09/20, 08/21;71;1982;Pohjois-Savo ja Kainuu;Rautavaara ja Sotkamo
+Torronsuo;60.7333; 23.6167;0;;30;1990;Kanta-Häme;Tammela
+UKK;68.3333; 28.0000;1; 08/24 ;2550;1983;Lappi;Sodankylä, Savukoski ja Inari
+Valkmusa;60.5667; 26.7333;1; 12/24;19,5;1996;Kymenlaakso;Pyhtää ja Kotka
