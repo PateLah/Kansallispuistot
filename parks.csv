@@ -14,7 +14,7 @@ Leivonmäki;61.9333; 26.0333;1; 08/18 ;30;2003;Keski-Suomi;Joutsa
 Lemmenjoki;68.5000; 25.5000;0;;2860;1956;Lappi;Inari ja Kittilä
 Liesjärvi;60.6536; 23.8977;1; 06/24 ;22;1956;Kanta-Häme, Uusimaa ja Varsinais-Suomi;Tammela, Somero ja Karkkila
 Linnansaari;62.1097; 28.5194;1; 08/20, 07/23 ;96;1956;Etelä-Savo ja Pohjois-Savo;Rantasalmi, Savonlinna ja Varkaus
-Nuuksio;60.3167; 24.4667;0;;53;1994;Uusimaa;Espoo, Kirkkonummi ja Vihti
+Nuuksio;60.3167; 24.4667;1; 03/25;53;1994;Uusimaa;Espoo, Kirkkonummi ja Vihti
 Oulanka;66.3667; 29.3333;1; 07/17 ;290;1956;Pohjois-Pohjanmaa ja Lappi;Kuusamo ja Salla
 Pallas-Yllästunturi;68.0700; 24.0500;0;;1020;1938;Lappi;Kittilä, Enontekiö, Muonio ja Kolari
 Patvinsuo;63.1131; 30.7012;1; 05/18, 10/19 ;105;1982;Pohjois-Karjala;Lieksa ja Ilomantsi
@@ -32,7 +32,7 @@ Salamajärvi;63.2667; 24.7500;1; 02/20 ;62;1982;Keski-Pohjanmaa ja Keski-Suomi
 Salla;66.7801; 28.8627;0;;99,8;2022;Lappi;Salla
 Seitseminen;61.9272; 23.4284;1; 07/20 ;45,5;1982;Pirkanmaa;Ylöjärvi ja Ikaalinen
 Selkämeri;61.5355; 21.5639;0;;913;2011;Satakunta ja Varsinais-Suomi;Eurajoki, Kustavi, Merikarvia, Pori, Pyhäranta, Rauma ja Uusikaupunki
-Sipoonkorpi;60.3125; 25.1625;1; 05/19 ;24;2011;Uusimaa;Helsinki, Vantaa ja Sipoo
+Sipoonkorpi;60.3125; 25.1625;1; 05/19, 04/25;24;2011;Uusimaa;Helsinki, Vantaa ja Sipoo
 Syöte;65.7014; 27.5722;1; 07/23 ;299;2000;Pohjois-Pohjanmaa ja Lappi;Pudasjärvi, Posio ja Taivalkoski
 Tammisaaren saaristo;59.8727; 23.3975;0;;52;1989;Uusimaa;Raasepori
 Teijo;60.2239; 22.9603;0;;33,9;2015;Varsinais-Suomi;Salo
