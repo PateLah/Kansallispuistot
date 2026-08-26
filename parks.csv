@@ -11,7 +11,7 @@ Kolovesi;62.2431; 28.8361;1; 06/21 ;23;1990;Etelä-Savo ja Pohjois-Karjala;Eno
 Kurjenrahka;60.7333; 22.4167;1; 11/25;29;1998;Varsinais-Suomi;Aura, Masku, Mynämäki, Nousiainen, Pöytyä, Rusko ja Turku
 Lauhanvuori;62.1519; 22.1750;1; 07/20 ;54;1982;Etelä-Pohjanmaa;Kauhajoki ja Isojoki
 Leivonmäki;61.9333; 26.0333;1; 08/18 ;30;2003;Keski-Suomi;Joutsa
-Lemmenjoki;68.5000; 25.5000;0;;2860;1956;Lappi;Inari ja Kittilä
+Lemmenjoki;68.5000; 25.5000;1; 08/26 ;2860;1956;Lappi;Inari ja Kittilä
 Liesjärvi;60.6536; 23.8977;1; 06/24 ;22;1956;Kanta-Häme, Uusimaa ja Varsinais-Suomi;Tammela, Somero ja Karkkila
 Linnansaari;62.1097; 28.5194;1; 08/20, 07/23 ;96;1956;Etelä-Savo ja Pohjois-Savo;Rantasalmi, Savonlinna ja Varkaus
 Nuuksio;60.3167; 24.4667;1; 03/25;53;1994;Uusimaa;Espoo, Kirkkonummi ja Vihti
@@ -34,7 +34,7 @@ Seitseminen;61.9272; 23.4284;1; 07/20 ;45,5;1982;Pirkanmaa;Ylöjärvi ja Ikaal
 Selkämeri;61.5355; 21.5639;0;;913;2011;Satakunta ja Varsinais-Suomi;Eurajoki, Kustavi, Merikarvia, Pori, Pyhäranta, Rauma ja Uusikaupunki
 Sipoonkorpi;60.3125; 25.1625;1; 05/19, 04/25;24;2011;Uusimaa;Helsinki, Vantaa ja Sipoo
 Syöte;65.7014; 27.5722;1; 07/23 ;299;2000;Pohjois-Pohjanmaa ja Lappi;Pudasjärvi, Posio ja Taivalkoski
-Tammisaaren saaristo;59.8727; 23.3975;1;08/26;52;1989;Uusimaa;Raasepori
+Tammisaaren saaristo;59.8727; 23.3975;1; 07/26 ;52;1989;Uusimaa;Raasepori
 Teijo;60.2239; 22.9603;1; 08/25;33,9;2015;Varsinais-Suomi;Salo
 Tiilikkajärvi;63.6667; 28.3000;1; 08/19, 09/20, 08/21;71;1982;Pohjois-Savo ja Kainuu;Rautavaara ja Sotkamo
 Torronsuo;60.7333; 23.6167;1; 04/25;30;1990;Kanta-Häme;Tammela
